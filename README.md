@@ -1,9 +1,11 @@
 ![logo height="50"](https://github.com/Subham7061/Subham7061/blob/main/Green%20Yellow%20Modern%20Gaming%20Channel%20Banner%20(1).gif )
-<h1 align="center">Hi 👋, I'm Subham yadav</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/subham yadav" target="blank"><img src="https://img.shields.io/twitter/follow/subham yadav?logo=twitter&style=for-the-badge" alt="subham yadav" /></a> </p>
+<h2>About me :</h2>
+<p>Hii my name is subham yadav and I am a frontend developer </p>
 
 - 🌱 I’m currently learning  : **React JS,Mongo Db**
 
